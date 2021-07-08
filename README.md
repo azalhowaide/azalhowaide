@@ -66,6 +66,7 @@ Fast learner and eager to explore new technologies. Believer in agile software d
 </p>
 <h1></h1>
 <b>Git Activeness</b><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azalhowaide&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=azalhowaide&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+</p><br>
 <h1></h1>
