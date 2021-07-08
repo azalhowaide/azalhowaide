@@ -7,11 +7,11 @@
 <a href="https://www.kaggle.com/azalhowaide" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_Alhowaide" height="30" width="40" /></a>
 <a href = "mailto: azalhowaide@mun.ca"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
-
+<p>
 +12 research experience, +9 academic experience, +4 practical experience.
 
 Fast learner and eager to explore new technologies. Believer in agile software development, teamwork, and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
-
+</p>
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
   <a href="https://www.linkedin.com/in/alaalhowaide/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
@@ -19,6 +19,7 @@ Fast learner and eager to explore new technologies. Believer in agile software d
   <a href="#"><img src="https://img.shields.io/badge/Interests-Machine Learning, Data Mining, Cybersecurity-_.svg?"></a>
 </p>
 <hr>
+<h1></h1>
 &nbsp;***About me ....***
 
 
