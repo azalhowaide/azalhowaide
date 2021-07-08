@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
+<img src="https://github.com/azalhowaide/azalhowaide/blob/main/2.png" alt="Image showing Dennis Hartrampf, team lead software development">
 ### Hi there 👋
 
 
