@@ -1,4 +1,4 @@
-<img src="https://github.com/azalhowaide/azalhowaide/blob/main/2.png" alt="Image showing Dennis Hartrampf, team lead software development">
+<img src="https://github.com/azalhowaide/azalhowaide/blob/main/2.png" />
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 
 +12 research experience, +9 academic experience, +4 practical experience.
