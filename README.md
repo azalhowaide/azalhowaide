@@ -1,8 +1,8 @@
 <img src="https://github.com/azalhowaide/azalhowaide/blob/main/2.png" height="450" align="center"/>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
-<a href="https://scholar.google.com/citations?hl=en&authuser=1&user=MtM9wbwAAAAJ" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Alaa Alhowaide" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Alaa-Alhowaide" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Alaa Alhowaide" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?hl=en&authuser=1&user=MtM9wbwAAAAJ" target="blank"><img align="center" src="https://github.com/azalhowaide/azalhowaide/blob/main/google_scholar_icon_130918.png" alt="Alaa Alhowaide" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Alaa-Alhowaide" target="blank"><img align="center" src="https://github.com/azalhowaide/azalhowaide/blob/main/researchgate_icon_130843.png" alt="Alaa Alhowaide" height="30" width="40" /></a>
   
 <a href="https://www.linkedin.com/in/alaalhowaide/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Alaa Alhowaide" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/azalhowaide" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_Alhowaide" height="30" width="40" /></a>
