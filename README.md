@@ -42,8 +42,9 @@ Fast learner and eager to explore new technologies. Believer in agile software d
 </p>
 <h1></h1>
 
-<b>Technical Skills</b>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+<b>Technical Skills</b><br>
+<p align="left">
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
@@ -62,4 +63,5 @@ Fast learner and eager to explore new technologies. Believer in agile software d
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"> </code>
+  </p>
 <h1></h1>
