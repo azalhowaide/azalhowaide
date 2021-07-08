@@ -1,8 +1,10 @@
 <img src="https://github.com/azalhowaide/azalhowaide/blob/main/2.png" height="450" align="center"/>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/alaalhowaide/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Alaa Alhowaide" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/azalhowaide" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_Alhowaide" height="30" width="40" /></a>
 <a href = "mailto: azalhowaide@mun.ca"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
 
 +12 research experience, +9 academic experience, +4 practical experience.
 
