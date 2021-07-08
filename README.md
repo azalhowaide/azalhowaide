@@ -1,12 +1,12 @@
 <img src="https://github.com/azalhowaide/azalhowaide/blob/main/2.png" alt="Image showing Dennis Hartrampf, team lead software development">
 
 +12 research experience, +9 academic experience, +4 practical experience.
-Fast learner and eager to explore new technologies. Believer in agile software development, teamwork, and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+I'm a machine learning engineer and data scientest. I'a a fast learner and eager to explore new technologies. Believer in agile software development, teamwork, and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
-  <a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
+  <a href="https://www.linkedin.com/in/alaalhowaide/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Interests-Machine Learning, Data Mining, Cybersecurity-_.svg?logo=Data Mining"></a>
   <a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
   <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
