@@ -20,7 +20,7 @@ Fast learner and eager to explore new technologies. Believer in agile software d
 </p>
 <hr>
 ***About me ....***
-<p align="center">
+<p align="left">
   <em>My research interests are in Machine Learning and Data Mining applications. Including Data Analysis, and Data Engeneering. I got my Ph.D. in 2021 from the Department of Computer Science at Memorial University of Newfoundland.</em>
 </p>
 <h1></h1>
