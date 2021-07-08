@@ -19,12 +19,12 @@ Fast learner and eager to explore new technologies. Believer in agile software d
   <a href="#"><img src="https://img.shields.io/badge/Interests-Machine Learning, Data Mining, Cybersecurity-_.svg?"></a>
 </p>
 <hr>
-<p> ***About me ....*** </p>
+<b>About me ....</b>
 <p align="left">
   <em>My research interests are in Machine Learning and Data Mining applications. Including Data Analysis, and Data Engeneering. I got my Ph.D. in 2021 from the Department of Computer Science at Memorial University of Newfoundland.</em>
 </p>
 <h1></h1>
-###Awards
+<b>Awards</b>
 <p align="left">
   <em>
     •	Awarded the title "Fellow of the School of Graduate Studies" in recognition of the continued academic excellence throughout the Ph.D. program by SGS, MUN, 2021.<br>
@@ -42,5 +42,6 @@ Fast learner and eager to explore new technologies. Believer in agile software d
 </p>
 <h1></h1>
 
+<b>Technical Skills</b>
 
 
