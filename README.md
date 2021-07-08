@@ -63,5 +63,9 @@ Fast learner and eager to explore new technologies. Believer in agile software d
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"> </code>
-  </p>
+</p>
+<h1></h1>
+<b>Git Activeness</b><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <h1></h1>
