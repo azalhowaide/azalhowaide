@@ -18,7 +18,7 @@ Fast learner and eager to explore new technologies. Believer in agile software d
   <a href="#"><img src="https://img.shields.io/badge/Degree-Ph.D.-_.svg?"></a>
   <a href="#"><img src="https://img.shields.io/badge/Interests-Machine Learning, Data Mining, Cybersecurity-_.svg?"></a>
 </p>
-<hr>
+<hr><hr>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 
