@@ -2,6 +2,7 @@
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 
 +12 research experience, +9 academic experience, +4 practical experience.
+
 Fast learner and eager to explore new technologies. Believer in agile software development, teamwork, and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
