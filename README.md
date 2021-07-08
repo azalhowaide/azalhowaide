@@ -27,18 +27,17 @@ Fast learner and eager to explore new technologies. Believer in agile software d
 ***Awards***
 <p align="left">
   <em>
-    •	Awarded the title "Fellow of the School of Graduate Studies" in recognition of the continued academic excellence throughout the Ph.D. program by SGS, MUN, 2021.
-•	Awarded  the department of Computer Science Research Award 2019-2020,  Memorial University of Newfoundland, Canada  2019.
-•	Awarded the Best Paper Award for IEEE IEMCON 2019, Vancouver, Canada, 2019.
-•	Awarded the Best Presenter Award for IEEE IEMCON 2019, Vancouver, Canada, 2019.
-•	Received TSEP Inclusive Outcomes-oriented Responsive lens, Memorial University of Newfoundland, Canada, 2017
-•	Graduate assistantships, Memorial University of Newfoundland, Canada, since 2016 – current.
-•	School of Graduate Studies fellowships, Memorial University of Newfoundland, Canada, 2016.
-•	Outstanding faculty member, Faculty of Computer Sciences and Information Technology, King Faisal University, KSA, 2016.
-•	Ranked 2nd out of 42 in master’s Degree in Computer Science, Jordan University of Science and Technology, Jordan, 2012.
-•	Ranked 1st out of 110 students in bachelor during the years 2004-2007, Yarmouk University, Jordan.
-•	Outstanding student scholarship granted three times for the years 2004-2007, Ministry of High Education for scientific excellence in BSc degree, Jordan.
-
+    •	Awarded the title "Fellow of the School of Graduate Studies" in recognition of the continued academic excellence throughout the Ph.D. program by SGS, MUN, 2021.<br>
+•	Awarded  the department of Computer Science Research Award 2019-2020,  Memorial University of Newfoundland, Canada  2019.<br>
+•	Awarded the Best Paper Award for IEEE IEMCON 2019, Vancouver, Canada, 2019.<br>
+•	Awarded the Best Presenter Award for IEEE IEMCON 2019, Vancouver, Canada, 2019.<br>
+•	Received TSEP Inclusive Outcomes-oriented Responsive lens, Memorial University of Newfoundland, Canada, 2017.<br>
+•	Graduate assistantships, Memorial University of Newfoundland, Canada, since 2016 – 2020.<br>
+•	School of Graduate Studies fellowships, Memorial University of Newfoundland, Canada, 2016.<br>
+•	Outstanding faculty member, Faculty of Computer Sciences and Information Technology, King Faisal University, KSA, 2016.<br>
+•	Ranked 2nd out of 42 in master’s Degree in Computer Science, Jordan University of Science and Technology, Jordan, 2012.<br>
+•	Ranked 1st out of 110 students in bachelor during the years 2004-2007, Yarmouk University, Jordan.<br>
+•	Outstanding student scholarship granted three times for the years 2004-2007, Ministry of High Education for scientific excellence in BSc degree, Jordan.<br>
   </em>
 </p>
 <h1></h1>
