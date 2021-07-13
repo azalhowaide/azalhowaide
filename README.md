@@ -27,7 +27,7 @@ Fast learner and eager to explore new technologies. Believer in agile software d
 <b>Awards</b>
 <p align="left">
   <em>
-    •	Awarded the title "Fellow of the School of Graduate Studies" in recognition of the continued academic excellence throughout the Ph.D. program by SGS, MUN, 2021.<br>
+•	Awarded the title "Fellow of the School of Graduate Studies" in recognition of the continued academic excellence throughout the Ph.D. program by SGS, MUN, 2021.<br>
 •	Awarded  the department of Computer Science Research Award 2019-2020,  Memorial University of Newfoundland, Canada  2019.<br>
 •	Awarded the Best Paper Award for IEEE IEMCON 2019, Vancouver, Canada, 2019.<br>
 •	Awarded the Best Presenter Award for IEEE IEMCON 2019, Vancouver, Canada, 2019.<br>
